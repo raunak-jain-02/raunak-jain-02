@@ -9,6 +9,7 @@ As a dedicated student with a passion for learning, I thrive on exploring divers
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [raunakjain1002@gmail.com](mailto:raunakjain1002@gmail.com)
+* 🚀  I'm currently working on [AgroAI](http://agro-mitra-ai.vercel.app/)
 * 🧠  I'm currently learning JavaScript
 * 👥  I'm looking to collaborate on Interesting & Open-Source Projects
 * 💬  Ask me about I am committed to continuous growth and innovation in the field.
